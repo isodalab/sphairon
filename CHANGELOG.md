@@ -2,6 +2,18 @@
 
 All notable changes to IsodaLab SPHAIRON: Polyharmonic Geometry.
 
+## 1.1.1 (2026-11-27)
+
+- A new icon and mark: a sphere (sphaira) with two orbits, the lower
+  layer (blue) and the upper layer (orange) of a polychord, three notes on
+  each. It replaces the two overlapping triangles, which could read as a
+  hexagram or a flag.
+- Header and footer as in the other IsodaLab tools (CPX, AGM, MCA,
+  ESTAVION): the SPHAIRON mark and name with “Polyharmonic Geometry” at
+  the top left; at the bottom, IsodaLab | “For anyone exploring harmony on
+  Earth and everywhere else”, then the copyright and the version (click it
+  for About).
+
 ## 1.1.0 (2026-11-27)
 
 **Examples and key**
