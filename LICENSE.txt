@@ -1,0 +1,79 @@
+SPHAIRON - Polyharmonic Geometry
+IsodaLab
+Freeware License (November 26, 2026)
+© 2020–2026 Dr. Hideki Isoda / All Rights Reserved.
+
+Developed by Dr. Hideki Isoda at Texas Tech University.
+Created as a contribution to the global music community, this software is
+provided free of charge to support composers, arrangers, performers,
+educators, students, and researchers worldwide.
+
+SPHAIRON ("the Software") is free of charge but it is not open source.
+This license applies to SPHAIRON version 1.0.0 for Windows, macOS and
+Linux, and to later versions released under it. By using the Software you
+agree to the terms below.
+
+1. USE
+   You may use the Software, free of charge, on any number of computers,
+   for any purpose: personal, educational or commercial. Music you write
+   with the Software, and the scores, images, MIDI and MusicXML files it
+   produces, are entirely yours; no credit or royalty is owed.
+
+2. SHARING
+   You may copy and give away the unmodified download package, provided
+   that it is free of charge and that this license, the copyright notice
+   and the IsodaLab and SPHAIRON names and branding stay intact.
+
+3. RESTRICTIONS
+   You may not sell, rent or sublicense the Software, bundle it with a paid
+   product, or distribute it under another name. You may not modify,
+   decompile or reverse engineer it, except where applicable law expressly
+   allows this regardless of this restriction, and except as section 8
+   allows for the Verovio library.
+
+4. PRIVACY
+   The Software collects no data. It makes no network connections, has no
+   analytics or telemetry, needs no account, registration or license key,
+   and never sends anything anywhere. It writes only what you choose to
+   save: scores, images, PDF, MIDI and MusicXML files. Playback and MIDI
+   input happen only on your own computer. Its one setting kept between
+   sessions (the colour theme) is stored on your computer.
+
+5. OWNERSHIP
+   The Software is licensed, not sold. All rights not expressly granted here
+   are reserved by the copyright holder. Future versions may be released
+   under different terms; this version stays available under this license.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. Suggestions,
+   analyses and arrangements are aids to musical judgement, not a
+   substitute for it; their reasons and sources are shown so that you can
+   check them.
+
+7. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR OR TEXAS TECH UNIVERSITY BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+   OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+   THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. THIRD-PARTY COMPONENTS
+   The Software is built with Electron and Chromium, React, three.js,
+   Tone.js, tonal and other libraries, each used under its own licence; the
+   file THIRD-PARTY-LICENSES.txt lists every component with its licence
+   text, and THIRD_PARTY_NOTICES.md summarises them. It contains the Inter
+   and JetBrains Mono typefaces and the Bravura music font, used under the
+   SIL Open Font License 1.1.
+
+   Music notation is engraved by Verovio, used unmodified under the GNU
+   Lesser General Public License, version 3 (licenses/LGPL-3.0.txt and
+   licenses/GPL-3.0.txt). Nothing in this license restricts your rights
+   under the LGPL for the Verovio library: you may modify or replace the
+   Verovio files (see THIRD_PARTY_NOTICES.md for where they are) and
+   reverse engineer the Software as far as needed to debug such
+   modifications. The source code of the Verovio version included is
+   available at https://github.com/rism-digital/verovio.
+
+   Windows is a trademark of Microsoft Corporation; macOS of Apple Inc.;
+   Linux of Linus Torvalds.
