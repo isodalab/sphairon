@@ -2,6 +2,14 @@
 
 All notable changes to IsodaLab SPHAIRON: Polyharmonic Geometry.
 
+## 1.1.2 (2026-11-27)
+
+- A new icon and mark, in the flat line style of the other IsodaLab tools:
+  a polychord in a sphere. A staff runs across the sphere; a teal triad on
+  the lines (the lower layer) carries an amber triad in the spaces above
+  (the upper layer). The two layers meet a second apart, so their
+  noteheads sit on either side, as in engraving.
+
 ## 1.1.1 (2026-11-27)
 
 - A new icon and mark: a sphere (sphaira) with two orbits, the lower
