@@ -2,6 +2,36 @@
 
 All notable changes to IsodaLab SPHAIRON: Polyharmonic Geometry.
 
+## 1.3.0 (2026-11-27)
+
+- MusicXML export rewritten for professional notation programs (Dorico
+  Pro, Sibelius Ultimate, MuseScore). The two hands of a piano part, and
+  the two layers of a polychord, no longer join into one voice across the
+  staves: voices are numbered per staff and never change staff. Rhythm is
+  kept exactly, with meter-aware values, dots and ties (across beats and
+  barlines), rests beat by beat, measure rests, and stems for two voices on
+  a staff. Soprano and alto (tenor and bass) are separate voices.
+- Beams: **Exact beams** (default) writes the beaming by the meter's beat
+  groups; **Program beams** leaves beaming to the notation program.
+- Polychords: as two parts, *Upper layer* and *Lower layer* (default), or
+  on one grand staff. Chord symbols are real MusicXML chord symbols; a
+  polychord is one stacked symbol (upper over lower).
+- Tested by importing into Dorico 6; validated against the MusicXML 4.0
+  schema and with music21.
+- Space plays or stops the open tab (Alternatives, Progression, Realise);
+  Escape stops.
+- The bottom tools can be resized: drag the line above the bottom tabs, or
+  use the arrow keys on it. The size is kept on this computer.
+- 164 example progressions (was 41): neo-Riemannian operations and cycles,
+  the axis system, planing and modes; ii-V variants, turnarounds, blues
+  forms and Coltrane changes; cadences, sequences, Gjerdingen's schemata,
+  grounds, applied chords and mixture; and more pop progressions.
+- Modulation: about 3.5 times as many routes (median 14 per pair of keys,
+  up to 24 shown): seventh-chord, minor-form and mixture pivots; the new
+  key's vii°7, V7/V and applied dominants; the tritone substitute of V7/V;
+  the Coltrane cycle; neo-Riemannian P/L/R chains; a ii-V-I sequence; and
+  routes through a closely related key.
+
 ## 1.2.1 (2026-11-27)
 
 - Part writing keeps every chord complete: all chord tones sound except,

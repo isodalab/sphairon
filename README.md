@@ -9,7 +9,7 @@ IsodaLab<br>
 Free advanced music production software, created for the global creative community.</i></p>
 
 <p align="center">
-  <a href="https://github.com/isodalab/sphairon/releases/tag/v1.2.1"><b>Download 1.2.1</b></a> ·
+  <a href="https://github.com/isodalab/sphairon/releases/tag/v1.3.0"><b>Download 1.3.0</b></a> ·
   <a href="#install-on-windows">Install on Windows</a> ·
   <a href="#install-on-macos">Install on macOS</a> ·
   <a href="#install-on-linux">Install on Linux</a> ·
@@ -29,16 +29,16 @@ It runs on **Windows**, **macOS** (Apple silicon) and **Linux**, with the same f
 
 | Platform | Package | Requirements |
 |---|---|---|
-| **Windows** | [IsodaLab-SPHAIRON-1.2.1-Windows.zip](https://github.com/isodalab/sphairon/releases/download/v1.2.1/IsodaLab-SPHAIRON-1.2.1-Windows.zip) | 64-bit Windows 10 or 11 |
-| **macOS** | [IsodaLab-SPHAIRON-1.2.1-macOS-AppleSilicon.dmg](https://github.com/isodalab/sphairon/releases/download/v1.2.1/IsodaLab-SPHAIRON-1.2.1-macOS-AppleSilicon.dmg) | Mac with Apple silicon (M1 or later), macOS 12 or later |
-| **Linux** | [IsodaLab-SPHAIRON-1.2.1-Linux-x86_64.zip](https://github.com/isodalab/sphairon/releases/download/v1.2.1/IsodaLab-SPHAIRON-1.2.1-Linux-x86_64.zip) | 64-bit Linux (x86_64) with a desktop: Ubuntu 22.04+, Debian 12, Fedora 39+ or similar |
+| **Windows** | [IsodaLab-SPHAIRON-1.3.0-Windows.zip](https://github.com/isodalab/sphairon/releases/download/v1.3.0/IsodaLab-SPHAIRON-1.3.0-Windows.zip) | 64-bit Windows 10 or 11 |
+| **macOS** | [IsodaLab-SPHAIRON-1.3.0-macOS-AppleSilicon.dmg](https://github.com/isodalab/sphairon/releases/download/v1.3.0/IsodaLab-SPHAIRON-1.3.0-macOS-AppleSilicon.dmg) | Mac with Apple silicon (M1 or later), macOS 12 or later |
+| **Linux** | [IsodaLab-SPHAIRON-1.3.0-Linux-x86_64.zip](https://github.com/isodalab/sphairon/releases/download/v1.3.0/IsodaLab-SPHAIRON-1.3.0-Linux-x86_64.zip) | 64-bit Linux (x86_64) with a desktop: Ubuntu 22.04+, Debian 12, Fedora 39+ or similar |
 
-Every package contains the app, the **SPHAIRON Quick Start** guide (PDF) and the license. [SHA256SUMS.txt](https://github.com/isodalab/sphairon/releases/download/v1.2.1/SHA256SUMS.txt) lists the checksums. SPHAIRON is a standalone app: there is no installer, no account and no license key, and nothing else to install. The full guide is inside the app: click **? Help** or press **F1**.
+Every package contains the app, the **SPHAIRON Quick Start** guide (PDF) and the license. [SHA256SUMS.txt](https://github.com/isodalab/sphairon/releases/download/v1.3.0/SHA256SUMS.txt) lists the checksums. SPHAIRON is a standalone app: there is no installer, no account and no license key, and nothing else to install. The full guide is inside the app: click **? Help** or press **F1**.
 
 ## What it does
 
 - **Alternatives for every chord.** Type a progression (`C E Ab C`, `Dm7 G7 Cmaj7 A7`, slash chords such as `C/E` included) and get, for each bar, substitute chords read in context (neo-Riemannian moves, chromatic mediants and hexatonic poles, modal interchange, augmented sixths, tritone substitution, diatonic substitutes and more) and polychords. Click one to use it and hear it in context; every suggestion says why, with its sources.
-- **41 examples to start from.** Contemporary techniques first (hexatonic and octatonic cycles, hexatonic poles, chromatic mediants, dominants a minor third apart, planing, pedals, Lydian colour), then jazz (ii–V–I, tritone and backdoor substitution, rhythm changes, Coltrane changes, modal), classical and Romantic, and pop. SPHAIRON suggests the key from the chords; you can change it at any time.
+- **164 examples to start from.** Contemporary techniques first (neo-Riemannian operations, hexatonic and octatonic cycles, hexatonic poles, chromatic mediants, the axis system, planing, pedals, modes), then jazz (ii–V–I variants, tritone and backdoor substitution, turnarounds, blues forms, rhythm changes, Coltrane changes, modal), classical and Romantic (cadences, sequences, Gjerdingen's schemata, grounds, applied chords, mixture), and pop. SPHAIRON suggests the key from the chords; you can change it at any time.
 - **Polyharmony design (Strata).** For any chord, upper layers ranked from smooth to rich: upper-structure triads, true polychords, quartal layers. Each shows its tensions, half-step clashes, common tones and a clarity measure, on the staff and in 3D. Add an upper layer to a bar, replace it or remove it.
 - **Whole-progression strategies.** Give a progression an upper layer in one move: planing, pedal, bitonal, tritone, mode-bound or neo-Riemannian (and an experimental phasing strategy).
 - **Automatic part writing.** The progression arranged for four voices, plus three for an upper layer, under the common-practice rules of voice leading: complete chords (only the fifth may be left out, so a seventh chord keeps its seventh), no parallel fifths or octaves, no crossing, close spacing, tendency tones resolved, correct doubling. The result is checked again and the check is shown. Alternative arrangements (melody from the 3rd, 5th or root; close or open position; a smoother bass with inversions) are one click away.
@@ -46,7 +46,7 @@ Every package contains the app, the **SPHAIRON Quick Start** guide (PDF) and the
 - **Hear it in music.** Orchestration built on the arrangement (every instrument plays one voice, inside its practical range), playable piano figures, moving bass lines (passing, pedal, arpeggio, walking and more, each in the bass register of its instrument) and a counterpoint melody with alternative lines.
 - **Analysis.** Chord readings, set class (Forte name, prime form, interval vector), available notes and avoid notes (Berklee and Messiaen lenses), Roman numerals, and modulation routes to any key with both readings.
 - **Harmonic geometry.** A 3D torus Tonnetz and a spiral of fifths that show both layers of a polychord; a 2D pitch-class clock, circle of fifths and Tonnetz for building chords by clicking.
-- **Print and export.** An A4 sheet (print or PDF) with notation and analysis; SVG and high-resolution PNG notation; MIDI with General MIDI instruments; MusicXML for Dorico, Finale, MuseScore and Sibelius. Exported scores are black and white.
+- **Print and export.** An A4 sheet (print or PDF) with notation and analysis; SVG and high-resolution PNG notation; MIDI with General MIDI instruments; MusicXML for Dorico, Sibelius, MuseScore and Finale, with separate voices on each staff, ties, dots and beams by the meter, chord symbols, and polychords as two parts (tested in Dorico 6). Exported scores are black and white.
 - **MIDI keyboard.** Play a chord and SPHAIRON reads it at once.
 
 <p align="center">
@@ -76,7 +76,7 @@ SPHAIRON is free and isn't code-signed with a paid certificate, so Windows treat
 
 ## Install on macOS
 
-1. **Download** `IsodaLab-SPHAIRON-1.2.1-macOS-AppleSilicon.dmg` and double-click it.
+1. **Download** `IsodaLab-SPHAIRON-1.3.0-macOS-AppleSilicon.dmg` and double-click it.
 2. **Drag `SPHAIRON.app` to your Applications folder.** The Quick Start guide and the license are in the same window.
 3. **Open it.** The first time, macOS shows an alert saying *"SPHAIRON" Not Opened*. That's expected: SPHAIRON is free and isn't notarized with a paid Apple Developer ID. Click **Done**, not *Move to Trash*.
 4. **Open System Settings → Privacy & Security** and scroll down to **Security**. Next to *"SPHAIRON" was blocked to protect your Mac*, click **Open Anyway**. Enter your password (or use Touch ID) and confirm with **Open Anyway**. macOS remembers this: from now on SPHAIRON opens normally.
@@ -99,7 +99,7 @@ Then open SPHAIRON again.
 1. **Extract** the download with your file manager, or in a terminal:
 
    ```bash
-   unzip IsodaLab-SPHAIRON-1.2.1-Linux-x86_64.zip -d SPHAIRON
+   unzip IsodaLab-SPHAIRON-1.3.0-Linux-x86_64.zip -d SPHAIRON
    ```
 
 2. **Run it**, or add it to your applications menu:
@@ -141,7 +141,7 @@ Shortcuts are written for Windows and Linux; on a Mac, use **Cmd** where they sa
 
 ### Tutorial 1: Reharmonize a progression
 
-1. Type `C E Ab C` (major-third mediants) in **Your progression** and press **Suggest alternatives** (or Enter). You can also pick one of 41 progressions from **Examples…**: contemporary, jazz, classical and pop. SPHAIRON suggests the key from the chords (shown below the box); change it in the **Key** menu if you hear it otherwise.
+1. Type `C E Ab C` (major-third mediants) in **Your progression** and press **Suggest alternatives** (or Enter). You can also pick one of 164 progressions from **Examples…**: contemporary, jazz, classical and pop. SPHAIRON suggests the key from the chords (shown below the box); change it in the **Key** menu if you hear it otherwise.
 2. The **Alternatives** tab shows one column per bar: the chord as you entered it, then **Substitutes**, then **Polychords**. Each option shows its Roman numeral, the rule or structure behind it, and its tier: **A** scholarly, **B** pedagogy, **C** experimental (off unless *Experimental* is ticked).
 
    <p align="center"><img src="docs/images/tutorial-2-alternatives.png" alt="Alternatives for C E A♭ C: one column per bar with substitutes and polychords"></p>
@@ -190,7 +190,7 @@ Open **Realise** and press **⤢ Enlarge** for room. Every view starts from the 
 
   <p align="center"><img src="docs/images/tutorial-7-counterpoint.png" alt="Realise, Counterpoint: a melody over the voice-led harmony, with melody and arrangement options"></p>
 
-Press **Play** to hear any view. To start somewhere else, **click a note, chord or bar in the score**: the button becomes *Play from bar 2, beat 3*, and playback starts there (click the note again to start from the beginning). While it plays, the bar is marked in the score and the **harmony map follows the music**, lighting the chord and the notes sounding in 2D and 3D. **Tempo**: type a value, or scroll on the number to step through the traditional metronome markings. **MIDI** and **MusicXML** export the view.
+Press **Play** to hear any view. To start somewhere else, **click a note, chord or bar in the score**: the button becomes *Play from bar 2, beat 3*, and playback starts there (click the note again to start from the beginning). While it plays, the bar is marked in the score and the **harmony map follows the music**, lighting the chord and the notes sounding in 2D and 3D. **Tempo**: type a value, or scroll on the number to step through the traditional metronome markings. **MIDI** and **MusicXML** export the view. **Space** plays or stops the open tab; **Esc** stops. Drag the line above the bottom tabs to give them more or less room.
 
 ### Tutorial 5: Substitutions and modulations for one chord
 
@@ -198,7 +198,7 @@ Press **Play** to hear any view. To start somewhere else, **click a note, chord 
 
   <p align="center"><img src="docs/images/tutorial-9-substitute.png" width="900" alt="The Substitute tab for C"></p>
 
-- **Modulate**: choose a target key. Routes (pivot chord, ii–V into the new key, applied dominant, common tone, enharmonic, direct) are ranked by key distance, pivot quality and voice leading, and shown with both Roman-numeral readings, notation and playback.
+- **Modulate**: choose a target key. Up to 24 routes (pivot chords, including seventh-chord and mixture pivots; ii–V into the new key; applied dominants and leading-tone chords; tritone substitute; Coltrane cycle; neo-Riemannian P/L/R chains; sequence; through a closely related key; common tone; enharmonic; direct) are ranked by key distance, pivot quality and voice leading, and shown with both Roman-numeral readings, notation and playback.
 
   <p align="center"><img src="docs/images/tutorial-10-modulate.png" width="900" alt="The Modulate tab: routes from C major to G major with Roman numerals in both keys"></p>
 
@@ -208,7 +208,7 @@ Press **Play** to hear any view. To start somewhere else, **click a note, chord 
 
   <p align="center"><img src="docs/images/sphairon-print.png" width="760" alt="The printed sheet: polychord, analysis, upper layers table and progression in black notation"></p>
 
-- Every score has **SVG** (vector, sharp at any size), **PNG** (four times screen resolution), **MusicXML** (opens in Dorico, Finale, MuseScore and Sibelius) and, for progressions and realisations, **MIDI** (one track per layer or instrument, with General MIDI instruments). Maps export as SVG (2D) or PNG (3D).
+- Every score has **SVG** (vector, sharp at any size), **PNG** (four times screen resolution), **MusicXML** (opens in Dorico, Sibelius, MuseScore and Finale; beside the button choose *Exact beams* or *Program beams*, and for polychords *two parts* or *one staff*) and, for progressions and realisations, **MIDI** (one track per layer or instrument, with General MIDI instruments). Maps export as SVG (2D) or PNG (3D).
 
 ### Tutorial 7: Play from a MIDI keyboard
 
