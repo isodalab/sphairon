@@ -2,6 +2,17 @@
 
 All notable changes to IsodaLab SPHAIRON: Polyharmonic Geometry.
 
+## 1.2.1 (2026-11-27)
+
+- Part writing keeps every chord complete: all chord tones sound except,
+  possibly, the fifth, so a seventh chord always keeps its seventh (and an
+  added-sixth chord its sixth), as Aldwell & Schachter and Kostka & Payne
+  require. Before, the search could leave the seventh out (for example the
+  B of Cmaj7) when that made the voice leading smoother. With more tones
+  than voices (ninth to thirteenth chords) the root, third and seventh are
+  required. The voice-leading check reports any incomplete chord as an
+  error. Voices, orchestration and the piano part all follow.
+
 ## 1.2.0 (2026-11-27)
 
 - Play from anywhere: click a note, chord, rest or bar in a Realise score,

@@ -9,7 +9,7 @@ IsodaLab<br>
 Free advanced music production software, created for the global creative community.</i></p>
 
 <p align="center">
-  <a href="https://github.com/isodalab/sphairon/releases/tag/v1.2.0"><b>Download 1.2.0</b></a> ·
+  <a href="https://github.com/isodalab/sphairon/releases/tag/v1.2.1"><b>Download 1.2.1</b></a> ·
   <a href="#install-on-windows">Install on Windows</a> ·
   <a href="#install-on-macos">Install on macOS</a> ·
   <a href="#install-on-linux">Install on Linux</a> ·
@@ -29,11 +29,11 @@ It runs on **Windows**, **macOS** (Apple silicon) and **Linux**, with the same f
 
 | Platform | Package | Requirements |
 |---|---|---|
-| **Windows** | [IsodaLab-SPHAIRON-1.2.0-Windows.zip](https://github.com/isodalab/sphairon/releases/download/v1.2.0/IsodaLab-SPHAIRON-1.2.0-Windows.zip) | 64-bit Windows 10 or 11 |
-| **macOS** | [IsodaLab-SPHAIRON-1.2.0-macOS-AppleSilicon.dmg](https://github.com/isodalab/sphairon/releases/download/v1.2.0/IsodaLab-SPHAIRON-1.2.0-macOS-AppleSilicon.dmg) | Mac with Apple silicon (M1 or later), macOS 12 or later |
-| **Linux** | [IsodaLab-SPHAIRON-1.2.0-Linux-x86_64.zip](https://github.com/isodalab/sphairon/releases/download/v1.2.0/IsodaLab-SPHAIRON-1.2.0-Linux-x86_64.zip) | 64-bit Linux (x86_64) with a desktop: Ubuntu 22.04+, Debian 12, Fedora 39+ or similar |
+| **Windows** | [IsodaLab-SPHAIRON-1.2.1-Windows.zip](https://github.com/isodalab/sphairon/releases/download/v1.2.1/IsodaLab-SPHAIRON-1.2.1-Windows.zip) | 64-bit Windows 10 or 11 |
+| **macOS** | [IsodaLab-SPHAIRON-1.2.1-macOS-AppleSilicon.dmg](https://github.com/isodalab/sphairon/releases/download/v1.2.1/IsodaLab-SPHAIRON-1.2.1-macOS-AppleSilicon.dmg) | Mac with Apple silicon (M1 or later), macOS 12 or later |
+| **Linux** | [IsodaLab-SPHAIRON-1.2.1-Linux-x86_64.zip](https://github.com/isodalab/sphairon/releases/download/v1.2.1/IsodaLab-SPHAIRON-1.2.1-Linux-x86_64.zip) | 64-bit Linux (x86_64) with a desktop: Ubuntu 22.04+, Debian 12, Fedora 39+ or similar |
 
-Every package contains the app, the **SPHAIRON Quick Start** guide (PDF) and the license. [SHA256SUMS.txt](https://github.com/isodalab/sphairon/releases/download/v1.2.0/SHA256SUMS.txt) lists the checksums. SPHAIRON is a standalone app: there is no installer, no account and no license key, and nothing else to install. The full guide is inside the app: click **? Help** or press **F1**.
+Every package contains the app, the **SPHAIRON Quick Start** guide (PDF) and the license. [SHA256SUMS.txt](https://github.com/isodalab/sphairon/releases/download/v1.2.1/SHA256SUMS.txt) lists the checksums. SPHAIRON is a standalone app: there is no installer, no account and no license key, and nothing else to install. The full guide is inside the app: click **? Help** or press **F1**.
 
 ## What it does
 
@@ -41,7 +41,7 @@ Every package contains the app, the **SPHAIRON Quick Start** guide (PDF) and the
 - **41 examples to start from.** Contemporary techniques first (hexatonic and octatonic cycles, hexatonic poles, chromatic mediants, dominants a minor third apart, planing, pedals, Lydian colour), then jazz (ii–V–I, tritone and backdoor substitution, rhythm changes, Coltrane changes, modal), classical and Romantic, and pop. SPHAIRON suggests the key from the chords; you can change it at any time.
 - **Polyharmony design (Strata).** For any chord, upper layers ranked from smooth to rich: upper-structure triads, true polychords, quartal layers. Each shows its tensions, half-step clashes, common tones and a clarity measure, on the staff and in 3D. Add an upper layer to a bar, replace it or remove it.
 - **Whole-progression strategies.** Give a progression an upper layer in one move: planing, pedal, bitonal, tritone, mode-bound or neo-Riemannian (and an experimental phasing strategy).
-- **Automatic part writing.** The progression arranged for four voices, plus three for an upper layer, under the common-practice rules of voice leading: no parallel fifths or octaves, no crossing, close spacing, tendency tones resolved, correct doubling. The result is checked again and the check is shown. Alternative arrangements (melody from the 3rd, 5th or root; close or open position; a smoother bass with inversions) are one click away.
+- **Automatic part writing.** The progression arranged for four voices, plus three for an upper layer, under the common-practice rules of voice leading: complete chords (only the fifth may be left out, so a seventh chord keeps its seventh), no parallel fifths or octaves, no crossing, close spacing, tendency tones resolved, correct doubling. The result is checked again and the check is shown. Alternative arrangements (melody from the 3rd, 5th or root; close or open position; a smoother bass with inversions) are one click away.
 - **Play from anywhere, and watch it.** Click a note or bar to play from there; the harmony map follows the music in real time.
 - **Hear it in music.** Orchestration built on the arrangement (every instrument plays one voice, inside its practical range), playable piano figures, moving bass lines (passing, pedal, arpeggio, walking and more, each in the bass register of its instrument) and a counterpoint melody with alternative lines.
 - **Analysis.** Chord readings, set class (Forte name, prime form, interval vector), available notes and avoid notes (Berklee and Messiaen lenses), Roman numerals, and modulation routes to any key with both readings.
@@ -76,7 +76,7 @@ SPHAIRON is free and isn't code-signed with a paid certificate, so Windows treat
 
 ## Install on macOS
 
-1. **Download** `IsodaLab-SPHAIRON-1.2.0-macOS-AppleSilicon.dmg` and double-click it.
+1. **Download** `IsodaLab-SPHAIRON-1.2.1-macOS-AppleSilicon.dmg` and double-click it.
 2. **Drag `SPHAIRON.app` to your Applications folder.** The Quick Start guide and the license are in the same window.
 3. **Open it.** The first time, macOS shows an alert saying *"SPHAIRON" Not Opened*. That's expected: SPHAIRON is free and isn't notarized with a paid Apple Developer ID. Click **Done**, not *Move to Trash*.
 4. **Open System Settings → Privacy & Security** and scroll down to **Security**. Next to *"SPHAIRON" was blocked to protect your Mac*, click **Open Anyway**. Enter your password (or use Touch ID) and confirm with **Open Anyway**. macOS remembers this: from now on SPHAIRON opens normally.
@@ -99,7 +99,7 @@ Then open SPHAIRON again.
 1. **Extract** the download with your file manager, or in a terminal:
 
    ```bash
-   unzip IsodaLab-SPHAIRON-1.2.0-Linux-x86_64.zip -d SPHAIRON
+   unzip IsodaLab-SPHAIRON-1.2.1-Linux-x86_64.zip -d SPHAIRON
    ```
 
 2. **Run it**, or add it to your applications menu:
