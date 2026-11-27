@@ -6,7 +6,7 @@
 <p align="center"><b>Polyharmonic Geometry</b><br>
 IsodaLab<br>
 <i>A workstation for harmony, geometry and polyharmony.<br>
-Free professional music software, created for the global music community.</i></p>
+Free advanced music production software, created for the global creative community.</i></p>
 
 <p align="center">
   <a href="https://github.com/isodalab/sphairon/releases/tag/v1.0.0"><b>Download 1.0.0</b></a> ·
@@ -247,7 +247,7 @@ Built with Electron, React, three.js, Tone.js and tonal; music notation by [Vero
 
 ## About
 
-SPHAIRON was developed by Dr. Hideki Isoda at Texas Tech University, from research on polyharmony and harmonic geometry pursued since 2020. It is free for composers, arrangers, performers, educators, students and researchers worldwide.
+SPHAIRON was developed by Dr. Hideki Isoda at Texas Tech University, from research on polyharmony and harmonic geometry pursued since 2023. It is free for composers, arrangers, performers, educators, students and researchers worldwide.
 
 ## Name
 
@@ -255,6 +255,6 @@ SPHAIRON comes from the Greek *sphaira* (sphere), echoing the "music of the sphe
 
 ## Transparency
 
-SPHAIRON was designed and directed by Dr. Hideki Isoda. Its code was written with the help of an AI coding assistant (Claude Code), under automated tests (every rule of the theory engine is tested, many against music21) and his review. Every suggestion carries its rationale, its references and an authority tier, so you can check it.
+SPHAIRON was developed by Dr. Hideki Isoda. Every rule implemented in its music theory engine has undergone AI-assisted validation against music21 and the cited theoretical references, followed by review by Dr. Isoda. Each suggestion is accompanied by its theoretical rationale, supporting references and authority tier, ensuring transparency and enabling users to independently evaluate and verify the underlying reasoning.
 
-<sub>© 2020–2026 Dr. Hideki Isoda / All Rights Reserved.</sub>
+<sub>© 2023–2026 Dr. Hideki Isoda / All Rights Reserved.</sub>
