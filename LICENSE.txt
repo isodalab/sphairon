@@ -1,7 +1,7 @@
 SPHAIRON - Polyharmonic Geometry
 IsodaLab
 Freeware License (November 26, 2026)
-© 2020–2026 Dr. Hideki Isoda / All Rights Reserved.
+© 2023–2026 Dr. Hideki Isoda / All Rights Reserved.
 
 Developed by Dr. Hideki Isoda at Texas Tech University.
 Created as a contribution to the global music community, this software is

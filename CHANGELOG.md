@@ -2,6 +2,43 @@
 
 All notable changes to IsodaLab SPHAIRON: Polyharmonic Geometry.
 
+## 1.1.0 (2026-11-27)
+
+**Examples and key**
+
+- 41 example progressions, grouped: contemporary techniques first
+  (hexatonic and octatonic cycles, hexatonic poles, chromatic mediants,
+  dominants a minor third apart, planing, pedals, Lydian colour, sus and
+  augmented chords), then jazz, classical and Romantic, and pop.
+- The key is suggested from the typed chords (Krumhansl–Schmuckler key
+  finding with the Krumhansl–Kessler profiles); examples set their own key.
+  It can always be changed in the Key menu.
+
+**Theory and scoring**
+
+- Roman numerals tell a major seventh from a dominant seventh: IM7, IVM65
+  (Kostka & Payne), not I7.
+- The double bass is written an octave above its sound, as usual (also in
+  MusicXML, with an octave transposition), and doubles the bass voice an
+  octave lower.
+- A moving bass line stays in the register of a bass voice (E2–C4; the
+  double bass an octave lower): no more tuba or bassoon lines in the
+  extreme low register. Every example is tested in every scoring with
+  every bass line for practical ranges.
+- New sources: Julian Hook, *Exploring Musical Spaces* (2023), and
+  Krumhansl, *Cognitive Foundations of Musical Pitch* (1990).
+
+**Interface**
+
+- Tempo: type any value; the arrow keys and the mouse wheel step through
+  the traditional metronome markings (40 … 208); a menu names the tempo
+  (Largo … Prestissimo) with its range on a traditional metronome dial.
+- Help → Sources lists the references without check labels; About gives
+  the project's background (since 2023, inspired by Hook and Tymoczko).
+- Copyright © 2023–2026. The status bar no longer repeats the privacy
+  note (it stays in Help → About).
+- The octaves bass line is called “Octaves (driving eighths)”.
+
 ## 1.0.0 (2026-11-26): first release
 
 **Composing with polyharmony**

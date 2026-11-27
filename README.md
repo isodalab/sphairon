@@ -9,7 +9,7 @@ IsodaLab<br>
 Free advanced music production software, created for the global creative community.</i></p>
 
 <p align="center">
-  <a href="https://github.com/isodalab/sphairon/releases/tag/v1.0.0"><b>Download 1.0.0</b></a> ·
+  <a href="https://github.com/isodalab/sphairon/releases/tag/v1.1.0"><b>Download 1.1.0</b></a> ·
   <a href="#install-on-windows">Install on Windows</a> ·
   <a href="#install-on-macos">Install on macOS</a> ·
   <a href="#install-on-linux">Install on Linux</a> ·
@@ -18,10 +18,10 @@ Free advanced music production software, created for the global creative communi
 </p>
 
 <p align="center">
-  <img src="docs/images/sphairon-hero.png" alt="SPHAIRON: the progression Dm7 G7 Cmaj7 A7 with a polychord chosen for three bars; the torus Tonnetz shows the two layers of Em / Dm7 in blue and orange, Strata lists upper layers, and the Alternatives grid offers substitutes and polychords for every bar">
+  <img src="docs/images/sphairon-hero.png" alt="SPHAIRON with the progression C, E, A♭, C (major-third mediants). Polychords are chosen for three bars (B minor over C, D♯ minor over E); the torus Tonnetz shows the two layers of B minor over C in orange and blue, Strata lists upper layers on grand staves, and the Alternatives grid offers substitutes (chromatic mediants, hexatonic poles) and polychords for every bar.">
 </p>
 
-**SPHAIRON is free, standalone software for composers, arrangers and students who want to explore harmony beyond the usual chords, and above all polyharmony: two chords sounding together in separate registers.** Type a chord progression and SPHAIRON suggests, for every bar, substitute chords and polychords, each with its reasons, its sources and a measure of how smooth or rich it sounds. Hear the result part-written for voices, for orchestra, for piano with a moving bass, or under a counterpoint melody. See every chord in 3D and 2D harmonic geometry. Print it, or export it as PDF, SVG, PNG, MIDI or MusicXML for your notation program.
+**SPHAIRON is free, standalone software for composers, arrangers, theorists and students who want to explore harmony beyond the usual chords: the chromatic and geometric harmony of contemporary composition, jazz harmony, and above all polyharmony, two chords sounding together in separate registers.** Type a chord progression and SPHAIRON suggests, for every bar, substitute chords and polychords, each with its reasons, its sources and a measure of how smooth or rich it sounds. Hear the result part-written for voices, for orchestra, for piano with a moving bass, or under a counterpoint melody. See every chord in 3D and 2D harmonic geometry. Print it, or export it as PDF, SVG, PNG, MIDI or MusicXML for your notation program.
 
 It runs on **Windows**, **macOS** (Apple silicon) and **Linux**, with the same features on all three, and works completely offline.
 
@@ -29,19 +29,20 @@ It runs on **Windows**, **macOS** (Apple silicon) and **Linux**, with the same f
 
 | Platform | Package | Requirements |
 |---|---|---|
-| **Windows** | [IsodaLab-SPHAIRON-1.0.0-Windows.zip](https://github.com/isodalab/sphairon/releases/download/v1.0.0/IsodaLab-SPHAIRON-1.0.0-Windows.zip) | 64-bit Windows 10 or 11 |
-| **macOS** | [IsodaLab-SPHAIRON-1.0.0-macOS-AppleSilicon.dmg](https://github.com/isodalab/sphairon/releases/download/v1.0.0/IsodaLab-SPHAIRON-1.0.0-macOS-AppleSilicon.dmg) | Mac with Apple silicon (M1 or later), macOS 12 or later |
-| **Linux** | [IsodaLab-SPHAIRON-1.0.0-Linux-x86_64.zip](https://github.com/isodalab/sphairon/releases/download/v1.0.0/IsodaLab-SPHAIRON-1.0.0-Linux-x86_64.zip) | 64-bit Linux (x86_64) with a desktop: Ubuntu 22.04+, Debian 12, Fedora 39+ or similar |
+| **Windows** | [IsodaLab-SPHAIRON-1.1.0-Windows.zip](https://github.com/isodalab/sphairon/releases/download/v1.1.0/IsodaLab-SPHAIRON-1.1.0-Windows.zip) | 64-bit Windows 10 or 11 |
+| **macOS** | [IsodaLab-SPHAIRON-1.1.0-macOS-AppleSilicon.dmg](https://github.com/isodalab/sphairon/releases/download/v1.1.0/IsodaLab-SPHAIRON-1.1.0-macOS-AppleSilicon.dmg) | Mac with Apple silicon (M1 or later), macOS 12 or later |
+| **Linux** | [IsodaLab-SPHAIRON-1.1.0-Linux-x86_64.zip](https://github.com/isodalab/sphairon/releases/download/v1.1.0/IsodaLab-SPHAIRON-1.1.0-Linux-x86_64.zip) | 64-bit Linux (x86_64) with a desktop: Ubuntu 22.04+, Debian 12, Fedora 39+ or similar |
 
-Every package contains the app, the **SPHAIRON Quick Start** guide (PDF) and the license. [SHA256SUMS.txt](https://github.com/isodalab/sphairon/releases/download/v1.0.0/SHA256SUMS.txt) lists the checksums. SPHAIRON is a standalone app: there is no installer, no account and no license key, and nothing else to install. The full guide is inside the app: click **? Help** or press **F1**.
+Every package contains the app, the **SPHAIRON Quick Start** guide (PDF) and the license. [SHA256SUMS.txt](https://github.com/isodalab/sphairon/releases/download/v1.1.0/SHA256SUMS.txt) lists the checksums. SPHAIRON is a standalone app: there is no installer, no account and no license key, and nothing else to install. The full guide is inside the app: click **? Help** or press **F1**.
 
 ## What it does
 
-- **Alternatives for every chord.** Type a progression (`Dm7 G7 Cmaj7 A7`, slash chords such as `C/E` included) and get, for each bar, substitute chords read in context (diatonic substitutes, tritone substitution, modal interchange, chromatic mediants, augmented sixths, neo-Riemannian moves and more) and polychords. Click one to use it and hear it in context; every suggestion says why, with its sources.
+- **Alternatives for every chord.** Type a progression (`C E Ab C`, `Dm7 G7 Cmaj7 A7`, slash chords such as `C/E` included) and get, for each bar, substitute chords read in context (neo-Riemannian moves, chromatic mediants and hexatonic poles, modal interchange, augmented sixths, tritone substitution, diatonic substitutes and more) and polychords. Click one to use it and hear it in context; every suggestion says why, with its sources.
+- **41 examples to start from.** Contemporary techniques first (hexatonic and octatonic cycles, hexatonic poles, chromatic mediants, dominants a minor third apart, planing, pedals, Lydian colour), then jazz (ii–V–I, tritone and backdoor substitution, rhythm changes, Coltrane changes, modal), classical and Romantic, and pop. SPHAIRON suggests the key from the chords; you can change it at any time.
 - **Polyharmony design (Strata).** For any chord, upper layers ranked from smooth to rich: upper-structure triads, true polychords, quartal layers. Each shows its tensions, half-step clashes, common tones and a clarity measure, on the staff and in 3D. Add an upper layer to a bar, replace it or remove it.
 - **Whole-progression strategies.** Give a progression an upper layer in one move: planing, pedal, bitonal, tritone, mode-bound or neo-Riemannian (and an experimental phasing strategy).
 - **Automatic part writing.** The progression arranged for four voices, plus three for an upper layer, under the common-practice rules of voice leading: no parallel fifths or octaves, no crossing, close spacing, tendency tones resolved, correct doubling. The result is checked again and the check is shown. Alternative arrangements (melody from the 3rd, 5th or root; close or open position; a smoother bass with inversions) are one click away.
-- **Hear it in music.** Orchestration built on the arrangement (every instrument plays one voice, inside its practical range), playable piano figures, moving bass lines (root–fifth, walking, passing, pedal and more) and a counterpoint melody with alternative lines.
+- **Hear it in music.** Orchestration built on the arrangement (every instrument plays one voice, inside its practical range), playable piano figures, moving bass lines (passing, pedal, arpeggio, walking and more, each in the bass register of its instrument) and a counterpoint melody with alternative lines.
 - **Analysis.** Chord readings, set class (Forte name, prime form, interval vector), available notes and avoid notes (Berklee and Messiaen lenses), Roman numerals, and modulation routes to any key with both readings.
 - **Harmonic geometry.** A 3D torus Tonnetz and a spiral of fifths that show both layers of a polychord; a 2D pitch-class clock, circle of fifths and Tonnetz for building chords by clicking.
 - **Print and export.** An A4 sheet (print or PDF) with notation and analysis; SVG and high-resolution PNG notation; MIDI with General MIDI instruments; MusicXML for Dorico, Finale, MuseScore and Sibelius. Exported scores are black and white.
@@ -74,7 +75,7 @@ SPHAIRON is free and isn't code-signed with a paid certificate, so Windows treat
 
 ## Install on macOS
 
-1. **Download** `IsodaLab-SPHAIRON-1.0.0-macOS-AppleSilicon.dmg` and double-click it.
+1. **Download** `IsodaLab-SPHAIRON-1.1.0-macOS-AppleSilicon.dmg` and double-click it.
 2. **Drag `SPHAIRON.app` to your Applications folder.** The Quick Start guide and the license are in the same window.
 3. **Open it.** The first time, macOS shows an alert saying *"SPHAIRON" Not Opened*. That's expected: SPHAIRON is free and isn't notarized with a paid Apple Developer ID. Click **Done**, not *Move to Trash*.
 4. **Open System Settings → Privacy & Security** and scroll down to **Security**. Next to *"SPHAIRON" was blocked to protect your Mac*, click **Open Anyway**. Enter your password (or use Touch ID) and confirm with **Open Anyway**. macOS remembers this: from now on SPHAIRON opens normally.
@@ -97,7 +98,7 @@ Then open SPHAIRON again.
 1. **Extract** the download with your file manager, or in a terminal:
 
    ```bash
-   unzip IsodaLab-SPHAIRON-1.0.0-Linux-x86_64.zip -d SPHAIRON
+   unzip IsodaLab-SPHAIRON-1.1.0-Linux-x86_64.zip -d SPHAIRON
    ```
 
 2. **Run it**, or add it to your applications menu:
@@ -139,10 +140,10 @@ Shortcuts are written for Windows and Linux; on a Mac, use **Cmd** where they sa
 
 ### Tutorial 1: Reharmonize a progression
 
-1. Type `Dm7 G7 Cmaj7 A7` in **Your progression** and press **Suggest alternatives** (or Enter). You can also pick a progression from **Examples…**.
+1. Type `C E Ab C` (major-third mediants) in **Your progression** and press **Suggest alternatives** (or Enter). You can also pick one of 41 progressions from **Examples…**: contemporary, jazz, classical and pop. SPHAIRON suggests the key from the chords (shown below the box); change it in the **Key** menu if you hear it otherwise.
 2. The **Alternatives** tab shows one column per bar: the chord as you entered it, then **Substitutes**, then **Polychords**. Each option shows its Roman numeral, the rule or structure behind it, and its tier: **A** scholarly, **B** pedagogy, **C** experimental (off unless *Experimental* is ticked).
 
-   <p align="center"><img src="docs/images/tutorial-2-alternatives.png" alt="Alternatives for Dm7 G7 Cmaj7 A7: one column per bar with substitutes and polychords"></p>
+   <p align="center"><img src="docs/images/tutorial-2-alternatives.png" alt="Alternatives for C E A♭ C: one column per bar with substitutes and polychords"></p>
 
 3. **Click an option** to use it. You hear it at once, the column header shows the new chord, and the panel below explains *why* it works, with its sources and the notation of the bars around it. **Play in context** plays it with its neighbours.
 4. Move **Safe ↔ Bold** to prefer familiar or adventurous substitutes, and **Smooth ↔ Rich** to prefer polychords with few or more half-step clashes. **True polychords only** hides upper layers that merely form one bigger chord with the lower layer.
@@ -154,7 +155,7 @@ Shortcuts are written for Windows and Linux; on a Mac, use **Cmd** where they sa
 2. **Strata** lists upper layers for that chord, ranked by the Smooth–Rich slider. Each card shows the polychord on a grand staff (upper layer orange, lower layer blue), its structure (for example *UST II* over a dominant seventh), its tensions, clashes, common tones and clarity, and whether it is a *true polychord*.
 3. Press **Show** to see both layers in 3D. In the **Spiral** view, notes a fifth apart are neighbours, and each layer appears as a coloured shape with its centre.
 
-   <p align="center"><img src="docs/images/tutorial-3-spiral.png" alt="The spiral of fifths showing Dm7 (blue) and Em (orange) as two layers, with Strata and the Alternatives grid"></p>
+   <p align="center"><img src="docs/images/tutorial-3-spiral.png" alt="The spiral of fifths showing C (blue) and B minor (orange) as two layers, with Strata and the Alternatives grid"></p>
 
 4. **+ Bar** adds the polychord as a new bar; **Use in bar N** sets or replaces the upper layer of the selected bar. **Why** shows the reasons and the notes available over both layers.
 
@@ -168,7 +169,7 @@ Shortcuts are written for Windows and Linux; on a Mac, use **Cmd** where they sa
    - *Phasing* (experimental): an upper loop of a different length.
 3. The curves show **tension** (red) and **clarity** (dashed) bar by bar. The notation is part-written (**Voicing: Voice-led**); choose *Close position* to stack each chord from its root instead.
 
-   <p align="center"><img src="docs/images/tutorial-8-progression.png" alt="The Progression tab after planing: Em7 / Dm7, A7 / G7, Dmaj7 / Cmaj7, B7 / A7, voice-led on a grand staff, with tension and clarity curves"></p>
+   <p align="center"><img src="docs/images/tutorial-8-progression.png" alt="The Progression tab after planing a major seventh above: B / C, D♯ / E, G / A♭, B / C, voice-led on a grand staff, with Roman numerals I, III, ♭VI, I, with tension and clarity curves"></p>
 
 ### Tutorial 4: Hear it as music (Realise)
 
@@ -180,7 +181,7 @@ Open **Realise** and press **⤢ Enlarge** for room. Every view starts from the 
 
 - **Orchestration.** Choose a **Scoring**: *Winds over strings* and *Strings over brass* give each layer its own instrument family; the quartets blend everything into one choir. Each instrument plays one voice of the arrangement in its practical range. The score is in C (sounding pitch).
 - **Arpeggio.** A playable piano part: each hand stays within an octave, low basses are open octaves, the left hand stays below the right. Choose the right-hand figure (rising, falling, rise-and-fall, Alberti, repeated chord), the left hand, and eighths or sixteenths.
-- **Bass line** (Arpeggio and Orchestration): keep the voice-led bass, or choose a moving bass: *Root–fifth*, *Arpeggio*, *Passing (stepwise)*, *Walking (jazz)*, *Octaves (pop)* or *Tonic pedal*.
+- **Bass line** (Arpeggio and Orchestration): keep the voice-led bass, or choose a moving bass: *Root–fifth*, *Arpeggio*, *Passing (stepwise)*, *Walking (jazz)*, *Octaves (driving eighths)* or *Tonic pedal*. In the orchestra the moving bass goes to the lowest instrument, in the register of a bass voice (the double bass an octave lower, written an octave above its sound as usual).
 
   <p align="center"><img src="docs/images/tutorial-6-piano-walking-bass.png" alt="Realise, Arpeggio with a walking bass: right-hand rise-and-fall figures over a walking left hand"></p>
 
@@ -194,7 +195,7 @@ Press **Play** to hear any view; **MIDI** and **MusicXML** export it.
 
 - **Substitute** (right): chords that can replace the current chord, ranked by voice leading, function and the Safe–Bold setting, each with notation and reasons.
 
-  <p align="center"><img src="docs/images/tutorial-9-substitute.png" width="900" alt="The Substitute tab for Dm7"></p>
+  <p align="center"><img src="docs/images/tutorial-9-substitute.png" width="900" alt="The Substitute tab for C"></p>
 
 - **Modulate**: choose a target key. Routes (pivot chord, ii–V into the new key, applied dominant, common tone, enharmonic, direct) are ranked by key distance, pivot quality and voice leading, and shown with both Roman-numeral readings, notation and playback.
 
@@ -233,7 +234,7 @@ The complete glossary, the rules behind every suggestion and the full source lis
 
 ## Sources
 
-Every suggestion names its sources. The main ones: Persichetti, *Twentieth-Century Harmony* (1961); Levine, *The Jazz Piano Book* (1989) and *The Jazz Theory Book* (1995); Aldwell, Schachter & Cadwallader, *Harmony and Voice Leading* (5th ed., 2019); Kostka, Payne & Almén, *Tonal Harmony* (8th ed., 2018); Fux, *Gradus ad Parnassum* (1725; trans. Mann, 1965); Tymoczko, *A Geometry of Music* (2011); Cohn, "Neo-Riemannian Operations…" (1997) and *Audacious Euphony* (2012); Bernardes et al., "A multi-level tonal interval space…" (2016); Krumhansl & Kessler (1982); Adler, *The Study of Orchestration* (4th ed., 2016); Messiaen, *Technique de mon langage musical* (1944); Nettles & Graf, *The Chord Scale Theory & Jazz Harmony* (1997). Every reference was checked before release; Help → Sources shows what was checked for each one. Tables such as Forte names and prime forms are generated with music21, not typed by hand.
+Every suggestion names its sources. The main ones: Hook, *Exploring Musical Spaces: A Synthesis of Mathematical Approaches* (2023); Tymoczko, *A Geometry of Music* (2011); Cohn, "Neo-Riemannian Operations…" (1997) and *Audacious Euphony* (2012); Persichetti, *Twentieth-Century Harmony* (1961); Messiaen, *Technique de mon langage musical* (1944); Forte, *The Structure of Atonal Music* (1973); Bernardes et al., "A multi-level tonal interval space…" (2016); Levine, *The Jazz Piano Book* (1989) and *The Jazz Theory Book* (1995); Nettles & Graf, *The Chord Scale Theory & Jazz Harmony* (1997); Aldwell, Schachter & Cadwallader, *Harmony and Voice Leading* (5th ed., 2019); Kostka, Payne & Almén, *Tonal Harmony* (8th ed., 2018); Fux, *Gradus ad Parnassum* (1725; trans. Mann, 1965); Krumhansl & Kessler (1982) and Krumhansl, *Cognitive Foundations of Musical Pitch* (1990); Adler, *The Study of Orchestration* (4th ed., 2016). Every reference was checked against publisher and library records; Help → Sources lists them all. Tables such as Forte names and prime forms are generated with music21, not typed by hand.
 
 ## Privacy
 
@@ -247,7 +248,7 @@ Built with Electron, React, three.js, Tone.js and tonal; music notation by [Vero
 
 ## About
 
-SPHAIRON was developed by Dr. Hideki Isoda at Texas Tech University, from research on polyharmony and harmonic geometry pursued since 2023. It is free for composers, arrangers, performers, educators, students and researchers worldwide.
+SPHAIRON is an ongoing research project of Dr. Hideki Isoda at Texas Tech University, begun in 2023 and inspired especially by Julian Hook's *Exploring Musical Spaces: A Synthesis of Mathematical Approaches* (Oxford University Press, 2023) and Dmitri Tymoczko's *A Geometry of Music* (Oxford University Press, 2011). It is free for composers, arrangers, performers, educators, students and researchers worldwide.
 
 ## Name
 
