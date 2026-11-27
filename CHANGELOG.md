@@ -2,6 +2,21 @@
 
 All notable changes to IsodaLab SPHAIRON: Polyharmonic Geometry.
 
+## 1.2.0 (2026-11-27)
+
+- Play from anywhere: click a note, chord, rest or bar in a Realise score,
+  or a bar (or its chord) in the Progression tab, and Play starts there
+  (“Play from bar 2, beat 3”). The bar being played is marked in the score.
+- The harmony map follows the music: while a progression or a realisation
+  plays, the 2D and 3D maps show the bar being played and light the notes
+  sounding, with quick, smooth transitions (instant with reduced motion).
+- Tempo in Realise too; scrolling on the number steps through the
+  traditional metronome markings.
+- Exports no longer name the program in their content: the printed or PDF
+  sheet is titled by the music, default file names are plain, and the MIDI
+  tempo track is called “Tempo”. The program name stays in the file
+  metadata only (SVG, PNG, MIDI, MusicXML, PDF).
+
 ## 1.1.2 (2026-11-27)
 
 - A new icon and mark, in the flat line style of the other IsodaLab tools:
